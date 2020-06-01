@@ -1,4 +1,6 @@
-## Las funciones siguientes se usan para crear una matriz y la inversa en memoria caché. 
+43289bf3c13d706e553f7a52e851675acf87eaa5
+
+# Las funciones siguientes se usan para crear una matriz y la inversa en memoria caché. 
 
 ## La primera función crea una matriz especial:
 
